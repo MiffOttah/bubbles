@@ -1,5 +1,3 @@
-DrawArea = null
-
 W = 400
 H = 400
 
